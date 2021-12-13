@@ -1,2 +1,2 @@
-# taruna28.github.io
+# note
 ganti jangan api bola karena kurang bermanfaat
